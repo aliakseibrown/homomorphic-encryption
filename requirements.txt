@@ -1,0 +1,7 @@
+tenseal==0.3.15
+streamlit==1.22.0
+pycuda==2022.2.2
+joblib==1.2.0
+pandas
+numpy
+matplotlib
