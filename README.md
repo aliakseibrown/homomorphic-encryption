@@ -1,4 +1,3 @@
-markdown
 # Równoległy system analizy danych medycznych z wykorzystaniem szyfrowania homomorficznego
 
 ![Homomorphic Encryption](https://img.shields.io/badge/Homomorphic-Encryption-blue)
